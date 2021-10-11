@@ -1,4 +1,4 @@
-# Plate Detection Program
+#  Licence Plate Detection Program
 
 A program helps define to plates with openCV
 
